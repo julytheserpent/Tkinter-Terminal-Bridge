@@ -1,3 +1,28 @@
-This program is kinda useless but I still wanted to share it, however to use it you should have latest python and tkinter library downloaded. To run this app you basically run it via a compiler or an IDE.
+# Tkinter Terminal Bridge
 
-This program transfers text written on Tkinter screen to terminal screen. It is my first program, so it lacks creativity and function. Sorry for that, however I hope I'll improve TextTransfer day by day!
+Send text from a Tkinter GUI directly to your terminal using Ctrl+Enter.
+
+## Overview
+This project demonstrates a simple way to connect a graphical interface (Tkinter) with terminal input.  
+Type in the GUI, press **Ctrl+Enter**, and instantly see the result in your terminal.
+
+## Why?  
+This project is a minimal example of a text editor.
+
+## Features
+- Ctrl+Enter to send text to terminal
+- Lightweight and simple
+- Beginner-friendly code
+
+## Requirements
+- Python 3
+- Tkinter
+
+## How to Run
+```bash
+python main.py
+
+or
+
+```bash
+python3 main.py
