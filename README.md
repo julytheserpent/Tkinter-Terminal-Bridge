@@ -24,5 +24,4 @@ python main.py
 
 or
 
-```bash
 python3 main.py
