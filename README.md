@@ -20,8 +20,8 @@ This project is a minimal example of a text editor.
 
 ## How to Run
 ```bash
-python main.py
+python texttransfer.py
 
 or
 
-python3 main.py
+python3 texttransfer.py
